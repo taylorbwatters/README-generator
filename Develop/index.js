@@ -37,7 +37,7 @@ const questions = [
    },
    {
        name:'tests',
-       message:'provide examples on how to run them here',
+       message:'provide examples on how to run tests',
        type:'input',
    },
    {
